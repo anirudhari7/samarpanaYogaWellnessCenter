@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# samarpanaYogaWellnessCenter
-Samarpana Yoga Wellness Center, website for booking
-=======
 # Samarpana Yoga Wellness Center Website
 
 A modern, responsive website for Samarpana Yoga Wellness Center with WhatsApp booking integration.
@@ -215,5 +211,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ---
 
 **Made with ❤️ for Samarpana Yoga Wellness Center**
-
->>>>>>> 5f1e981 (Initial commit: Samarpana Yoga Wellness Center website)
