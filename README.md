@@ -1,2 +1,2 @@
 # Samarpana Yoga Wellness Center
-A static informational site about yoga and wellness, built by Anirudh Hari.
+A static informational site about yoga and wellness, built by Anirudh S Hari.
